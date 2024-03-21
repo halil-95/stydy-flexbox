@@ -21,7 +21,9 @@ Merge made by the 'ort' strategy.
 ```
 ## git alias
 ```bash
-alias gadd="git add .; git commit -m ''"
+alias gadd="git add .; git commit -m"
+alias gpush="git push origin main; git push gitlab main"
+
 ```
 
 
